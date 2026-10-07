@@ -1,0 +1,4183 @@
+{
+  "nodes": [
+    {
+      "id": "AI_基础设施工程师",
+      "name": "AI 基础设施工程师",
+      "tier": 2
+    },
+    {
+      "id": "APP推广",
+      "name": "APP推广",
+      "tier": 2
+    },
+    {
+      "id": "Al_编程业务开发",
+      "name": "Al 编程业务开发",
+      "tier": 2
+    },
+    {
+      "id": "Android工程师",
+      "name": "Android工程师",
+      "tier": 2
+    },
+    {
+      "id": "BD经理",
+      "name": "BD经理",
+      "tier": 4
+    },
+    {
+      "id": "C_C_",
+      "name": "C/C++",
+      "tier": 2
+    },
+    {
+      "id": "Go_服务端开发",
+      "name": "Go 服务端开发",
+      "tier": 2
+    },
+    {
+      "id": "Go工程师",
+      "name": "Go工程师",
+      "tier": 2
+    },
+    {
+      "id": "HRBP",
+      "name": "HRBP",
+      "tier": 2
+    },
+    {
+      "id": "Java",
+      "name": "Java",
+      "tier": 2
+    },
+    {
+      "id": "NGO项目专员",
+      "name": "NGO项目专员",
+      "tier": 2
+    },
+    {
+      "id": "PHP",
+      "name": "PHP",
+      "tier": 2
+    },
+    {
+      "id": "Python工程师",
+      "name": "Python工程师",
+      "tier": 2
+    },
+    {
+      "id": "ReactNative_开发",
+      "name": "ReactNative 开发",
+      "tier": 2
+    },
+    {
+      "id": "UI",
+      "name": "UI",
+      "tier": 2
+    },
+    {
+      "id": "UI设计师",
+      "name": "UI设计师",
+      "tier": 2
+    },
+    {
+      "id": "iOS工程师",
+      "name": "iOS工程师",
+      "tier": 2
+    },
+    {
+      "id": "中国区核心工程师",
+      "name": "中国区核心工程师",
+      "tier": 2
+    },
+    {
+      "id": "临床研究员",
+      "name": "临床研究员",
+      "tier": 2
+    },
+    {
+      "id": "产品专员_助理",
+      "name": "产品专员/助理",
+      "tier": 1
+    },
+    {
+      "id": "体育运营",
+      "name": "体育运营",
+      "tier": 2
+    },
+    {
+      "id": "供应链专员",
+      "name": "供应链专员",
+      "tier": 2
+    },
+    {
+      "id": "储备干部",
+      "name": "储备干部",
+      "tier": 2
+    },
+    {
+      "id": "储备经理人",
+      "name": "储备经理人",
+      "tier": 4
+    },
+    {
+      "id": "全栈工程师",
+      "name": "全栈工程师",
+      "tier": 2
+    },
+    {
+      "id": "公关专员",
+      "name": "公关专员",
+      "tier": 2
+    },
+    {
+      "id": "公务员_选调生",
+      "name": "公务员/选调生",
+      "tier": 2
+    },
+    {
+      "id": "内容审核",
+      "name": "内容审核",
+      "tier": 2
+    },
+    {
+      "id": "内容运营",
+      "name": "内容运营",
+      "tier": 2
+    },
+    {
+      "id": "农业技术员",
+      "name": "农业技术员",
+      "tier": 2
+    },
+    {
+      "id": "前端开发",
+      "name": "前端开发",
+      "tier": 2
+    },
+    {
+      "id": "化工工艺工程师",
+      "name": "化工工艺工程师",
+      "tier": 2
+    },
+    {
+      "id": "医疗器械销售",
+      "name": "医疗器械销售",
+      "tier": 2
+    },
+    {
+      "id": "医药代表",
+      "name": "医药代表",
+      "tier": 2
+    },
+    {
+      "id": "咨询顾问",
+      "name": "咨询顾问",
+      "tier": 2
+    },
+    {
+      "id": "售后客服",
+      "name": "售后客服",
+      "tier": 2
+    },
+    {
+      "id": "商务专员",
+      "name": "商务专员",
+      "tier": 2
+    },
+    {
+      "id": "土木工程师",
+      "name": "土木工程师",
+      "tier": 2
+    },
+    {
+      "id": "地产投资分析",
+      "name": "地产投资分析",
+      "tier": 2
+    },
+    {
+      "id": "培训师",
+      "name": "培训师",
+      "tier": 2
+    },
+    {
+      "id": "多名工程师",
+      "name": "多名工程师",
+      "tier": 2
+    },
+    {
+      "id": "大客户代表",
+      "name": "大客户代表",
+      "tier": 2
+    },
+    {
+      "id": "安全工程师",
+      "name": "安全工程师",
+      "tier": 2
+    },
+    {
+      "id": "实施工程师",
+      "name": "实施工程师",
+      "tier": 2
+    },
+    {
+      "id": "审计专员",
+      "name": "审计专员",
+      "tier": 2
+    },
+    {
+      "id": "嵌入式软件工程师",
+      "name": "嵌入式软件工程师",
+      "tier": 2
+    },
+    {
+      "id": "广告销售",
+      "name": "广告销售",
+      "tier": 2
+    },
+    {
+      "id": "建筑设计师",
+      "name": "建筑设计师",
+      "tier": 2
+    },
+    {
+      "id": "影视编导",
+      "name": "影视编导",
+      "tier": 2
+    },
+    {
+      "id": "律师",
+      "name": "律师",
+      "tier": 2
+    },
+    {
+      "id": "律师助理",
+      "name": "律师助理",
+      "tier": 1
+    },
+    {
+      "id": "总助_CEO助理_董事长助理",
+      "name": "总助/CEO助理/董事长助理",
+      "tier": 1
+    },
+    {
+      "id": "技术岗位",
+      "name": "技术岗位",
+      "tier": 2
+    },
+    {
+      "id": "技术支持工程师",
+      "name": "技术支持工程师",
+      "tier": 2
+    },
+    {
+      "id": "投资分析师",
+      "name": "投资分析师",
+      "tier": 2
+    },
+    {
+      "id": "招聘专员_助理",
+      "name": "招聘专员/助理",
+      "tier": 1
+    },
+    {
+      "id": "教学设计师",
+      "name": "教学设计师",
+      "tier": 2
+    },
+    {
+      "id": "教育咨询师",
+      "name": "教育咨询师",
+      "tier": 2
+    },
+    {
+      "id": "数据工程师",
+      "name": "数据工程师",
+      "tier": 2
+    },
+    {
+      "id": "文旅策划",
+      "name": "文旅策划",
+      "tier": 2
+    },
+    {
+      "id": "文案策划",
+      "name": "文案策划",
+      "tier": 2
+    },
+    {
+      "id": "新能源研发",
+      "name": "新能源研发",
+      "tier": 2
+    },
+    {
+      "id": "旅游产品经理",
+      "name": "旅游产品经理",
+      "tier": 4
+    },
+    {
+      "id": "日语翻译",
+      "name": "日语翻译",
+      "tier": 2
+    },
+    {
+      "id": "机械工程师",
+      "name": "机械工程师",
+      "tier": 2
+    },
+    {
+      "id": "架构师",
+      "name": "架构师",
+      "tier": 5
+    },
+    {
+      "id": "档案管理",
+      "name": "档案管理",
+      "tier": 2
+    },
+    {
+      "id": "法务专员",
+      "name": "法务专员",
+      "tier": 2
+    },
+    {
+      "id": "法务专员_助理",
+      "name": "法务专员/助理",
+      "tier": 1
+    },
+    {
+      "id": "测试",
+      "name": "测试",
+      "tier": 2
+    },
+    {
+      "id": "测试工程师",
+      "name": "测试工程师",
+      "tier": 2
+    },
+    {
+      "id": "游戏推广",
+      "name": "游戏推广",
+      "tier": 2
+    },
+    {
+      "id": "游戏运营",
+      "name": "游戏运营",
+      "tier": 2
+    },
+    {
+      "id": "物业管理经理",
+      "name": "物业管理经理",
+      "tier": 4
+    },
+    {
+      "id": "物流规划师",
+      "name": "物流规划师",
+      "tier": 2
+    },
+    {
+      "id": "猎头顾问",
+      "name": "猎头顾问",
+      "tier": 2
+    },
+    {
+      "id": "环境工程师",
+      "name": "环境工程师",
+      "tier": 2
+    },
+    {
+      "id": "生物研发工程师",
+      "name": "生物研发工程师",
+      "tier": 2
+    },
+    {
+      "id": "用户体验交付工程师",
+      "name": "用户体验交付工程师",
+      "tier": 2
+    },
+    {
+      "id": "用户研究",
+      "name": "用户研究",
+      "tier": 2
+    },
+    {
+      "id": "电商运营",
+      "name": "电商运营",
+      "tier": 2
+    },
+    {
+      "id": "电气工程师",
+      "name": "电气工程师",
+      "tier": 2
+    },
+    {
+      "id": "电话客服",
+      "name": "电话客服",
+      "tier": 2
+    },
+    {
+      "id": "电话销售",
+      "name": "电话销售",
+      "tier": 2
+    },
+    {
+      "id": "知识产权_专利代理",
+      "name": "知识产权/专利代理",
+      "tier": 2
+    },
+    {
+      "id": "知识产权专员",
+      "name": "知识产权专员",
+      "tier": 2
+    },
+    {
+      "id": "硬件测试",
+      "name": "硬件测试",
+      "tier": 2
+    },
+    {
+      "id": "社会工作者",
+      "name": "社会工作者",
+      "tier": 2
+    },
+    {
+      "id": "社区运营",
+      "name": "社区运营",
+      "tier": 2
+    },
+    {
+      "id": "科研人员",
+      "name": "科研人员",
+      "tier": 2
+    },
+    {
+      "id": "算法工程师",
+      "name": "算法工程师",
+      "tier": 2
+    },
+    {
+      "id": "管培生_储备干部",
+      "name": "管培生/储备干部",
+      "tier": 2
+    },
+    {
+      "id": "管理咨询顾问",
+      "name": "管理咨询顾问",
+      "tier": 2
+    },
+    {
+      "id": "统计员",
+      "name": "统计员",
+      "tier": 2
+    },
+    {
+      "id": "网络客服",
+      "name": "网络客服",
+      "tier": 2
+    },
+    {
+      "id": "网络销售",
+      "name": "网络销售",
+      "tier": 2
+    },
+    {
+      "id": "航天系统工程师",
+      "name": "航天系统工程师",
+      "tier": 2
+    },
+    {
+      "id": "航空运营",
+      "name": "航空运营",
+      "tier": 2
+    },
+    {
+      "id": "英语翻译",
+      "name": "英语翻译",
+      "tier": 2
+    },
+    {
+      "id": "记者_编辑",
+      "name": "记者/编辑",
+      "tier": 2
+    },
+    {
+      "id": "财务分析师",
+      "name": "财务分析师",
+      "tier": 2
+    },
+    {
+      "id": "质检员",
+      "name": "质检员",
+      "tier": 2
+    },
+    {
+      "id": "质量工程师",
+      "name": "质量工程师",
+      "tier": 2
+    },
+    {
+      "id": "质量管理_测试",
+      "name": "质量管理/测试",
+      "tier": 2
+    },
+    {
+      "id": "资料管理",
+      "name": "资料管理",
+      "tier": 2
+    },
+    {
+      "id": "轨道交通工程师",
+      "name": "轨道交通工程师",
+      "tier": 2
+    },
+    {
+      "id": "软件测试",
+      "name": "软件测试",
+      "tier": 2
+    },
+    {
+      "id": "运维",
+      "name": "运维",
+      "tier": 2
+    },
+    {
+      "id": "运维工程师",
+      "name": "运维工程师",
+      "tier": 2
+    },
+    {
+      "id": "运营",
+      "name": "运营",
+      "tier": 2
+    },
+    {
+      "id": "运营助理_专员",
+      "name": "运营助理/专员",
+      "tier": 1
+    },
+    {
+      "id": "通信工程师",
+      "name": "通信工程师",
+      "tier": 2
+    },
+    {
+      "id": "酒店管理培训生",
+      "name": "酒店管理培训生",
+      "tier": 2
+    },
+    {
+      "id": "销售助理",
+      "name": "销售助理",
+      "tier": 1
+    },
+    {
+      "id": "销售工程师",
+      "name": "销售工程师",
+      "tier": 2
+    },
+    {
+      "id": "销售运营",
+      "name": "销售运营",
+      "tier": 2
+    },
+    {
+      "id": "雷达工程师",
+      "name": "雷达工程师",
+      "tier": 2
+    },
+    {
+      "id": "音视频研发工程师",
+      "name": "音视频研发工程师",
+      "tier": 2
+    },
+    {
+      "id": "项目专员_助理",
+      "name": "项目专员/助理",
+      "tier": 1
+    },
+    {
+      "id": "项目招投标",
+      "name": "项目招投标",
+      "tier": 2
+    },
+    {
+      "id": "项目经理_主管",
+      "name": "项目经理/主管",
+      "tier": 4
+    },
+    {
+      "id": "风控专员",
+      "name": "风控专员",
+      "tier": 2
+    },
+    {
+      "id": "风电工程师",
+      "name": "风电工程师",
+      "tier": 2
+    },
+    {
+      "id": "食品研发工程师",
+      "name": "食品研发工程师",
+      "tier": 2
+    },
+    {
+      "id": "餐饮运营管理",
+      "name": "餐饮运营管理",
+      "tier": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": "AI_基础设施工程师",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "PHP",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "中国区核心工程师",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "储备干部",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "多名工程师",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "大客户代表",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "技术岗位",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "日语翻译",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "测试",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "英语翻译",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "质量管理_测试",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "运维",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "项目招投标",
+      "target": "项目经理_主管",
+      "type": "promote",
+      "years": "5-9年",
+      "family": "其他",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "APP推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "体育运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "内容审核",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "内容运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "医疗器械销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "售后客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "广告销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "游戏推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "游戏运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "电商运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "电话客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "电话销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "社区运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "网络客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "网络销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "航空运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "销售工程师",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "销售运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "餐饮运营管理",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "APP推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "体育运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "内容审核",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "内容运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "医疗器械销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "售后客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "广告销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "游戏推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "游戏运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "电商运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "电话客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "电话销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "社区运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "网络客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "网络销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "航空运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "销售工程师",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "销售运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "餐饮运营管理",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "APP推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "体育运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "内容审核",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "内容运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "医疗器械销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "售后客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "广告销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "游戏推广",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "游戏运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "电商运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "电话客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "电话销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "社区运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "网络客服",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "网络销售",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "航空运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "销售工程师",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "销售运营",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "销售助理",
+      "target": "餐饮运营管理",
+      "type": "promote",
+      "years": "1-2年",
+      "family": "产品运营",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "APP推广",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "APP推广",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "体育运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "体育运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "内容审核",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "内容审核",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "内容运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "内容运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "医疗器械销售",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "医疗器械销售",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "售后客服",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "售后客服",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "广告销售",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "广告销售",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "游戏推广",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "游戏推广",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "游戏运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "游戏运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电商运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电商运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电话客服",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电话客服",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电话销售",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "电话销售",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "社区运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "社区运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "网络客服",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "网络客服",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "网络销售",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "网络销售",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "航空运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "航空运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "销售工程师",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "销售工程师",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "销售运营",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "销售运营",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "餐饮运营管理",
+      "target": "BD经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "餐饮运营管理",
+      "target": "旅游产品经理",
+      "type": "promote",
+      "years": "4-9年",
+      "family": "产品运营",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "Al_编程业务开发",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "Android工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "C_C_",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "Go_服务端开发",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "Go工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "Java",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "Python工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "ReactNative_开发",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "iOS工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "全栈工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "前端开发",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "安全工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "嵌入式软件工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "数据工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "测试工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "硬件测试",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "科研人员",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "算法工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "航天系统工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "软件测试",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "运维工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "通信工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "雷达工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "音视频研发工程师",
+      "target": "架构师",
+      "type": "promote",
+      "years": "10-16年",
+      "family": "研发",
+      "src_tier": 2,
+      "dst_tier": 5
+    },
+    {
+      "source": "律师助理",
+      "target": "HRBP",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "供应链专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "商务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "培训师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "律师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "档案管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "法务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "猎头顾问",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "知识产权_专利代理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "知识产权专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "管培生_储备干部",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "统计员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "质检员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "律师助理",
+      "target": "资料管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "HRBP",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "供应链专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "商务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "培训师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "律师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "档案管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "法务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "猎头顾问",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "知识产权_专利代理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "知识产权专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "管培生_储备干部",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "统计员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "质检员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "资料管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "HRBP",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "供应链专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "商务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "培训师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "律师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "档案管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "法务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "猎头顾问",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "知识产权_专利代理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "知识产权专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "管培生_储备干部",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "统计员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "质检员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "资料管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "HRBP",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "供应链专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "商务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "培训师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "律师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "档案管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "法务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "猎头顾问",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "知识产权_专利代理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "知识产权专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "管培生_储备干部",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "统计员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "质检员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "资料管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "HRBP",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "供应链专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "商务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "培训师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "律师",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "档案管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "法务专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "猎头顾问",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "知识产权_专利代理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "知识产权专员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "管培生_储备干部",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "统计员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "质检员",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "资料管理",
+      "type": "promote",
+      "years": "1-3年",
+      "family": "职能",
+      "src_tier": 1,
+      "dst_tier": 2
+    },
+    {
+      "source": "HRBP",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "HRBP",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "供应链专员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "供应链专员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "商务专员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "商务专员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "培训师",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "培训师",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "律师",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "律师",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "档案管理",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "档案管理",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "法务专员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "法务专员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "猎头顾问",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "猎头顾问",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "知识产权_专利代理",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "知识产权_专利代理",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "知识产权专员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "知识产权专员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "管培生_储备干部",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "管培生_储备干部",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "统计员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "统计员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "质检员",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "质检员",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "资料管理",
+      "target": "储备经理人",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "资料管理",
+      "target": "物业管理经理",
+      "type": "promote",
+      "years": "5-10年",
+      "family": "职能",
+      "src_tier": 2,
+      "dst_tier": 4
+    },
+    {
+      "source": "Android工程师",
+      "target": "技术岗位",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "BD经理",
+      "target": "统计员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "BD经理",
+      "target": "储备经理人",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "BD经理",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "C_C_",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.45
+    },
+    {
+      "source": "C_C_",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "C_C_",
+      "target": "网络客服",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "Go_服务端开发",
+      "target": "运营助理_专员",
+      "type": "switch",
+      "weight": 0.38
+    },
+    {
+      "source": "Go_服务端开发",
+      "target": "资料管理",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "Go工程师",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.38
+    },
+    {
+      "source": "Go工程师",
+      "target": "中国区核心工程师",
+      "type": "switch",
+      "weight": 0.35
+    },
+    {
+      "source": "Go工程师",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "Java",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.45
+    },
+    {
+      "source": "Java",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "Java",
+      "target": "运营助理_专员",
+      "type": "switch",
+      "weight": 0.25
+    },
+    {
+      "source": "Python工程师",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.46
+    },
+    {
+      "source": "Python工程师",
+      "target": "运营助理_专员",
+      "type": "switch",
+      "weight": 0.38
+    },
+    {
+      "source": "Python工程师",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.36
+    },
+    {
+      "source": "UI设计师",
+      "target": "销售工程师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "UI设计师",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "UI设计师",
+      "target": "法务专员",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "iOS工程师",
+      "target": "招聘专员_助理",
+      "type": "switch",
+      "weight": 0.3
+    },
+    {
+      "source": "iOS工程师",
+      "target": "多名工程师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "中国区核心工程师",
+      "target": "全栈工程师",
+      "type": "switch",
+      "weight": 0.41
+    },
+    {
+      "source": "中国区核心工程师",
+      "target": "Go工程师",
+      "type": "switch",
+      "weight": 0.35
+    },
+    {
+      "source": "中国区核心工程师",
+      "target": "运维工程师",
+      "type": "switch",
+      "weight": 0.35
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "猎头顾问",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "产品专员_助理",
+      "target": "质检员",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "供应链专员",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "供应链专员",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "供应链专员",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "储备干部",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "储备干部",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "储备干部",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "储备经理人",
+      "target": "BD经理",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "储备经理人",
+      "target": "电话销售",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "储备经理人",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "全栈工程师",
+      "target": "中国区核心工程师",
+      "type": "switch",
+      "weight": 0.41
+    },
+    {
+      "source": "全栈工程师",
+      "target": "多名工程师",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "内容审核",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "内容审核",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "内容审核",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "咨询顾问",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "咨询顾问",
+      "target": "游戏运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "咨询顾问",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "售后客服",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "售后客服",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "售后客服",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "商务专员",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "商务专员",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "商务专员",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "地产投资分析",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "地产投资分析",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "地产投资分析",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "培训师",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "培训师",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "培训师",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "多名工程师",
+      "target": "运维工程师",
+      "type": "switch",
+      "weight": 0.44
+    },
+    {
+      "source": "多名工程师",
+      "target": "招聘专员_助理",
+      "type": "switch",
+      "weight": 0.36
+    },
+    {
+      "source": "多名工程师",
+      "target": "全栈工程师",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "大客户代表",
+      "target": "猎头顾问",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "大客户代表",
+      "target": "质检员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "大客户代表",
+      "target": "资料管理",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "实施工程师",
+      "target": "测试工程师",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "实施工程师",
+      "target": "Python工程师",
+      "type": "switch",
+      "weight": 0.46
+    },
+    {
+      "source": "实施工程师",
+      "target": "C_C_",
+      "type": "switch",
+      "weight": 0.45
+    },
+    {
+      "source": "广告销售",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "广告销售",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "广告销售",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "总助_CEO助理_董事长助理",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "技术岗位",
+      "target": "Android工程师",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "技术岗位",
+      "target": "雷达工程师",
+      "type": "switch",
+      "weight": 0.25
+    },
+    {
+      "source": "技术支持工程师",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.57
+    },
+    {
+      "source": "技术支持工程师",
+      "target": "项目专员_助理",
+      "type": "switch",
+      "weight": 0.56
+    },
+    {
+      "source": "技术支持工程师",
+      "target": "测试工程师",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "投资分析师",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "投资分析师",
+      "target": "游戏运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "投资分析师",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "招聘专员_助理",
+      "target": "游戏运营",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "数据工程师",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "数据工程师",
+      "target": "销售运营",
+      "type": "switch",
+      "weight": 0.44
+    },
+    {
+      "source": "数据工程师",
+      "target": "项目经理_主管",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "新能源研发",
+      "target": "雷达工程师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "新能源研发",
+      "target": "质量管理_测试",
+      "type": "switch",
+      "weight": 0.25
+    },
+    {
+      "source": "旅游产品经理",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "旅游产品经理",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "旅游产品经理",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "日语翻译",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "日语翻译",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "日语翻译",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "档案管理",
+      "target": "电商运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "档案管理",
+      "target": "航空运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "档案管理",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "法务专员",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "法务专员",
+      "target": "UI设计师",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "法务专员",
+      "target": "运营助理_专员",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "电商运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "航空运营",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "法务专员_助理",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "测试工程师",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "测试工程师",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "测试工程师",
+      "target": "风控专员",
+      "type": "switch",
+      "weight": 0.38
+    },
+    {
+      "source": "游戏推广",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "游戏推广",
+      "target": "猎头顾问",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "游戏推广",
+      "target": "质检员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "游戏运营",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "游戏运营",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "游戏运营",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "物流规划师",
+      "target": "生物研发工程师",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "物流规划师",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "物流规划师",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "猎头顾问",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "猎头顾问",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "猎头顾问",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "生物研发工程师",
+      "target": "物流规划师",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "生物研发工程师",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "生物研发工程师",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "用户研究",
+      "target": "物流规划师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "用户研究",
+      "target": "生物研发工程师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "用户研究",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "电商运营",
+      "target": "档案管理",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电商运营",
+      "target": "法务专员_助理",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电商运营",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "电话客服",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电话客服",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电话客服",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电话销售",
+      "target": "统计员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "电话销售",
+      "target": "储备经理人",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "电话销售",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "知识产权_专利代理",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "知识产权_专利代理",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "知识产权_专利代理",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "硬件测试",
+      "target": "物流规划师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "硬件测试",
+      "target": "生物研发工程师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "硬件测试",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.27
+    },
+    {
+      "source": "社区运营",
+      "target": "储备经理人",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "社区运营",
+      "target": "英语翻译",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "社区运营",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "科研人员",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "科研人员",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "科研人员",
+      "target": "游戏运营",
+      "type": "switch",
+      "weight": 0.43
+    },
+    {
+      "source": "算法工程师",
+      "target": "网络客服",
+      "type": "switch",
+      "weight": 0.27
+    },
+    {
+      "source": "算法工程师",
+      "target": "项目专员_助理",
+      "type": "switch",
+      "weight": 0.27
+    },
+    {
+      "source": "算法工程师",
+      "target": "多名工程师",
+      "type": "switch",
+      "weight": 0.26
+    },
+    {
+      "source": "管培生_储备干部",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "管培生_储备干部",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "管培生_储备干部",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "管理咨询顾问",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "管理咨询顾问",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "管理咨询顾问",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "统计员",
+      "target": "BD经理",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "统计员",
+      "target": "电话销售",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "统计员",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "网络客服",
+      "target": "C_C_",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "网络客服",
+      "target": "物流规划师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "网络客服",
+      "target": "生物研发工程师",
+      "type": "switch",
+      "weight": 0.29
+    },
+    {
+      "source": "网络销售",
+      "target": "统计员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "网络销售",
+      "target": "储备经理人",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "网络销售",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.33
+    },
+    {
+      "source": "航空运营",
+      "target": "档案管理",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "航空运营",
+      "target": "法务专员_助理",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "航空运营",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "英语翻译",
+      "target": "储备经理人",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "英语翻译",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "英语翻译",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.4
+    },
+    {
+      "source": "财务分析师",
+      "target": "销售运营",
+      "type": "switch",
+      "weight": 0.8
+    },
+    {
+      "source": "财务分析师",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "财务分析师",
+      "target": "档案管理",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "质检员",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "质检员",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "质检员",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "质量管理_测试",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "质量管理_测试",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "质量管理_测试",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "资料管理",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "资料管理",
+      "target": "电商运营",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "资料管理",
+      "target": "航空运营",
+      "type": "switch",
+      "weight": 0.75
+    },
+    {
+      "source": "软件测试",
+      "target": "实施工程师",
+      "type": "switch",
+      "weight": 0.36
+    },
+    {
+      "source": "软件测试",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.36
+    },
+    {
+      "source": "软件测试",
+      "target": "项目专员_助理",
+      "type": "switch",
+      "weight": 0.36
+    },
+    {
+      "source": "运维工程师",
+      "target": "多名工程师",
+      "type": "switch",
+      "weight": 0.44
+    },
+    {
+      "source": "运维工程师",
+      "target": "中国区核心工程师",
+      "type": "switch",
+      "weight": 0.35
+    },
+    {
+      "source": "运维工程师",
+      "target": "UI设计师",
+      "type": "switch",
+      "weight": 0.25
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "资料管理",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "运营助理_专员",
+      "target": "档案管理",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "销售助理",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "销售助理",
+      "target": "储备干部",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "销售助理",
+      "target": "地产投资分析",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "销售工程师",
+      "target": "UI设计师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "销售工程师",
+      "target": "大客户代表",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "销售工程师",
+      "target": "猎头顾问",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "销售运营",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.8
+    },
+    {
+      "source": "销售运营",
+      "target": "咨询顾问",
+      "type": "switch",
+      "weight": 0.6
+    },
+    {
+      "source": "销售运营",
+      "target": "投资分析师",
+      "type": "switch",
+      "weight": 0.6
+    },
+    {
+      "source": "雷达工程师",
+      "target": "新能源研发",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "雷达工程师",
+      "target": "技术岗位",
+      "type": "switch",
+      "weight": 0.25
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "财务分析师",
+      "type": "switch",
+      "weight": 0.57
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "技术支持工程师",
+      "type": "switch",
+      "weight": 0.56
+    },
+    {
+      "source": "项目专员_助理",
+      "target": "销售运营",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "项目招投标",
+      "target": "供应链专员",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "项目招投标",
+      "target": "内容审核",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "项目招投标",
+      "target": "售后客服",
+      "type": "switch",
+      "weight": 1.0
+    },
+    {
+      "source": "项目经理_主管",
+      "target": "资料管理",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "项目经理_主管",
+      "target": "档案管理",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "项目经理_主管",
+      "target": "法务专员_助理",
+      "type": "switch",
+      "weight": 0.5
+    },
+    {
+      "source": "风控专员",
+      "target": "物流规划师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "风控专员",
+      "target": "生物研发工程师",
+      "type": "switch",
+      "weight": 0.67
+    },
+    {
+      "source": "风控专员",
+      "target": "销售运营",
+      "type": "switch",
+      "weight": 0.6
+    }
+  ],
+  "families": {
+    "其他": [
+      "AI_基础设施工程师",
+      "PHP",
+      "中国区核心工程师",
+      "储备干部",
+      "多名工程师",
+      "大客户代表",
+      "技术岗位",
+      "日语翻译",
+      "测试",
+      "英语翻译",
+      "质量管理_测试",
+      "运维",
+      "项目招投标",
+      "项目经理_主管"
+    ],
+    "产品运营": [
+      "APP推广",
+      "BD经理",
+      "产品专员_助理",
+      "体育运营",
+      "内容审核",
+      "内容运营",
+      "医疗器械销售",
+      "售后客服",
+      "广告销售",
+      "旅游产品经理",
+      "游戏推广",
+      "游戏运营",
+      "电商运营",
+      "电话客服",
+      "电话销售",
+      "社区运营",
+      "网络客服",
+      "网络销售",
+      "航空运营",
+      "运营",
+      "运营助理_专员",
+      "销售助理",
+      "销售工程师",
+      "销售运营",
+      "餐饮运营管理"
+    ],
+    "研发": [
+      "Al_编程业务开发",
+      "Android工程师",
+      "C_C_",
+      "Go_服务端开发",
+      "Go工程师",
+      "Java",
+      "Python工程师",
+      "ReactNative_开发",
+      "iOS工程师",
+      "全栈工程师",
+      "前端开发",
+      "安全工程师",
+      "嵌入式软件工程师",
+      "数据工程师",
+      "架构师",
+      "测试工程师",
+      "硬件测试",
+      "科研人员",
+      "算法工程师",
+      "航天系统工程师",
+      "软件测试",
+      "运维工程师",
+      "通信工程师",
+      "雷达工程师",
+      "音视频研发工程师"
+    ],
+    "职能": [
+      "HRBP",
+      "供应链专员",
+      "储备经理人",
+      "商务专员",
+      "培训师",
+      "律师",
+      "律师助理",
+      "总助_CEO助理_董事长助理",
+      "招聘专员_助理",
+      "档案管理",
+      "法务专员",
+      "法务专员_助理",
+      "物业管理经理",
+      "猎头顾问",
+      "知识产权_专利代理",
+      "知识产权专员",
+      "管培生_储备干部",
+      "统计员",
+      "质检员",
+      "资料管理",
+      "项目专员_助理"
+    ],
+    "公共服务": [
+      "NGO项目专员",
+      "公务员_选调生",
+      "社会工作者"
+    ],
+    "设计": [
+      "UI",
+      "UI设计师",
+      "建筑设计师",
+      "教学设计师",
+      "用户体验交付工程师",
+      "用户研究"
+    ],
+    "教育医药": [
+      "临床研究员",
+      "医药代表",
+      "教育咨询师",
+      "生物研发工程师"
+    ],
+    "传媒文创": [
+      "公关专员",
+      "影视编导",
+      "文旅策划",
+      "文案策划",
+      "记者_编辑"
+    ],
+    "农业": [
+      "农业技术员"
+    ],
+    "工程制造": [
+      "化工工艺工程师",
+      "土木工程师",
+      "实施工程师",
+      "技术支持工程师",
+      "新能源研发",
+      "机械工程师",
+      "物流规划师",
+      "环境工程师",
+      "电气工程师",
+      "质量工程师",
+      "轨道交通工程师",
+      "风电工程师",
+      "食品研发工程师"
+    ],
+    "咨询管理": [
+      "咨询顾问",
+      "管理咨询顾问"
+    ],
+    "金融财务": [
+      "地产投资分析",
+      "审计专员",
+      "投资分析师",
+      "财务分析师",
+      "风控专员"
+    ],
+    "酒店旅游": [
+      "酒店管理培训生"
+    ]
+  }
+}

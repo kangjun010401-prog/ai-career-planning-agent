@@ -1,0 +1,10 @@
+app/frontend/node_modules/
+app/frontend/dist/
+app/data/store.json
+**/__pycache__/
+*.py[cod]
+.env
+.env.*
+server_err.log
+.venv/
+tmp/
