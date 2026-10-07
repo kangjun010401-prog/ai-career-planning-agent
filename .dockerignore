@@ -1,0 +1,8 @@
+.git
+.gitignore
+app/frontend/node_modules
+app/frontend/dist
+app/data/store.json
+**/__pycache__
+*.pyc
+.env*
