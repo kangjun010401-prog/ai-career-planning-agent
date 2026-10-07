@@ -1,5 +1,6 @@
 app/frontend/node_modules/
 app/frontend/dist/
+app/frontend/*.tsbuildinfo
 app/data/store.json
 **/__pycache__/
 *.py[cod]

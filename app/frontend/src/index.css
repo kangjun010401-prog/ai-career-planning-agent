@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body {
+    @apply bg-canvas text-ink font-sans antialiased;
+  }
+  h1 { @apply text-3xl font-bold; }
+  h2 { @apply text-2xl font-semibold; }
+  h3 { @apply text-lg font-semibold; }
+
+  /* 去掉 number input 的上下小箭头（Chrome / Safari / Firefox） */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-white px-5 py-2.5 rounded font-medium
+           hover:brightness-90 transition shadow-low disabled:opacity-50;
+  }
+  .btn-secondary {
+    @apply bg-white text-primary border border-primary px-5 py-2.5 rounded
+           font-medium hover:bg-orange-50 transition;
+  }
+  .btn-ghost {
+    @apply text-primary px-4 py-2 rounded font-medium hover:bg-orange-50 transition;
+  }
+  .card {
+    @apply bg-white rounded-lg shadow-low border border-line p-6;
+  }
+  .tag {
+    @apply inline-flex items-center gap-1.5 text-base px-3 py-1 rounded-full
+           bg-orange-50 text-primary;
+  }
+  .tag-warn { @apply tag bg-yellow-50 text-warning; }
+  .tag-ok   { @apply tag bg-green-50 text-success; }
+  .input {
+    @apply w-full border border-line rounded px-4 py-2.5 outline-none
+           focus:border-primary focus:ring-2 focus:ring-orange-100 transition;
+  }
+}
